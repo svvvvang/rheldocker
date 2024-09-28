@@ -7,5 +7,6 @@ chmod +x insall_docker.sh
 ./install_docker.sh
 
 
-For rhel9 image
+For rhel9 image pull
+Need to log into redhat, get ready the credentials
 
